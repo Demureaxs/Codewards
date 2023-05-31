@@ -2,4 +2,3 @@
 
 This repository contains my solutions to various Codewars challenges.
 
-## Challenges
